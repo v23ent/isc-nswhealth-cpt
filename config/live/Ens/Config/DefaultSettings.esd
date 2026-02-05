@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<defaultSettings>
+<item production="Demo.HL7.MsgRouter.Production" item="$Production" class="*" setting="ActorPoolSize" value="3"><Deployable>true</Deployable></item>
+</defaultSettings>

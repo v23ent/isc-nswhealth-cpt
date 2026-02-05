@@ -1,7 +1,7 @@
 {
   "pullEventClass":"SourceControl.Git.PullEventHandler.Default",
   "percentClassReplace":"",
-  "generatedFilesReadOnly":0,
+  "generatedFilesReadOnly":"0",
   "Mappings":{
     "CLS":{
       "*":{
